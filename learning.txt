@@ -1,0 +1,6 @@
+What I've Learnt in this course.
+
+- how to create a github repo
+- how to create a file and commit with a commit message
+- how to make a pull request and merge it
+- how to create a fork, make changes and then make a pull request
