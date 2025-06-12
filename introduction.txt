@@ -1,0 +1,8 @@
+Title: Brief Introduction About Myself
+
+Hello, I'm Odunayo Okesanya Samuel.
+
+I am a passionate Cloud DevOps Engineer with extensive experience in designing, implementing, and maintaining robust cloud infrastructure and automation pipelines. 
+
+I'm also interested in entrepreneurship and building groundbreaking solutions to solve everyday human problem.
+
